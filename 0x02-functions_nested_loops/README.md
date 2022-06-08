@@ -1,1 +1,1 @@
-codingsome new knowledge in c
+getting some coded stuffs into alx c
