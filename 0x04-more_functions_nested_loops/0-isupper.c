@@ -3,16 +3,15 @@
  * main- check the code
  *
  * return always 0
- **/
+ */
 int _isupper(int c)
-i
+
 {
-	char c;
 
 	if ((c >= 'A') && (c <= 'Z'))
 
-		return(1);
+		return (1);
 
 	else
-		return(0);
+		return (0);
 }
