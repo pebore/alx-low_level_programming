@@ -5,11 +5,11 @@
  * return always 0
  **/
 int _isupper(int c)
-
+i
 {
 	char c;
 
-	if ((c>='A') && (c<='Z'))
+	if ((c >= 'A') && (c <= 'Z'))
 
 		return(1);
 
