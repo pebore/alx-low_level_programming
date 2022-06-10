@@ -1,1 +1,1 @@
-more nested loops
+ more nested loops functions in c
